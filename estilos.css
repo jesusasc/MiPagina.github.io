@@ -1,0 +1,49 @@
+
+img{
+    position: relative;
+    padding: 0.2rem;
+    width: 50%;
+    margin: auto;  
+}
+
+p{
+    font-family: monospace;
+    text-align: justify;
+    padding: 1rem;
+    color: darkgrey;
+}
+
+h4{
+    color: dodgerblue;
+}
+
+.i1{
+    padding: 2rem;
+}
+.wap{
+    width: 100%;
+    margin: auto;
+}
+.bienvenidos{
+    margin-top: 50px;
+    text-align: center;
+}
+.contedor-columnas{
+    width: 100%;
+    margin: auto;
+    margin-bottom: 50px;
+}
+.columnasx3{
+    width: 33.333%;
+    float: left;
+    padding: 20px 20px;
+    box-sizing: border-box;
+    margin: auto;
+    text-align: center;
+}
+.columnasx3 img{
+    padding-left: 10px;
+    width: 350px;
+    height: 250px;
+}
+
